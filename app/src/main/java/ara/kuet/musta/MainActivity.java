@@ -167,8 +167,7 @@ public class MainActivity extends FragmentActivity {
 					.replace(R.id.content_frame,
 									AboutUs.newInstances(),
 									AboutUs.TAG).commit();
-			default:
-				break;
+		
 
 		}
 		mDrawerLayout.closeDrawer(mDrawerList);
