@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Coding\Project32\SilencerNDitector\SilencerNDitector\app\libs\android-support-v13.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0c39cec0634e45ef67a1041708cf2d63b1a816b7">
+        <dex dex="D:\Coding\Project32\SilencerNDitector\SilencerNDitector\app\build\intermediates\pre-dexed\debug\android-support-v13-309f8bb2e7af7603f04774c6f7011e69913b388b.jar" />
+    </item>
+
+</items>
