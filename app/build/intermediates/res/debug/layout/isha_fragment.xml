@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context="com.paulusworld.drawernavigationtabs.IshaFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textSize="50sp"
+        android:text="Isha"/>
+
+</FrameLayout>
+<!-- From: file:/D:/Coding/Project32/SilencerNDitector/SilencerNDitector/app/src/main/res/layout/isha_fragment.xml -->
